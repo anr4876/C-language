@@ -9,7 +9,7 @@ void change(int x[]) {
 		*(x + i) = 200 * (i + 1);
 	}
 	
-
+	print("¿©±â¼­ ¹Ù²Þ")
 	return 0;
 }
 
