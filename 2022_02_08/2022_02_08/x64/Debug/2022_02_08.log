@@ -1,0 +1,8 @@
+﻿  2022_02_08_Q3.c
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(8,35): warning C4311: '형식 캐스트': 'char *'에서 'long'(으)로 포인터가 잘립니다.
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(11,35): warning C4311: '형식 캐스트': 'char *'에서 'long'(으)로 포인터가 잘립니다.
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(14,35): warning C4311: '형식 캐스트': 'char *'에서 'long'(으)로 포인터가 잘립니다.
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(17,35): warning C4311: '형식 캐스트': 'char *'에서 'long'(으)로 포인터가 잘립니다.
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(23,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+C:\git_code_up\C-language-master\2022_02_08\2022_02_08\2022_02_08_Q3.c(23,9): warning C4313: 'printf': 서식 문자열의 '%s'이(가) 인수 1('int' 형식)과(와) 충돌합니다.
+  2022_02_08.vcxproj -> C:\git_code_up\C-language-master\2022_02_08\x64\Debug\2022_02_08.exe
