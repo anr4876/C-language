@@ -30,5 +30,11 @@
     <ClCompile Include="2022_02_08_Q4.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="2022_02_08_Q5.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2022_02_08_Q6.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
